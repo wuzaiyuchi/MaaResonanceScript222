@@ -1,0 +1,72 @@
+{
+  "当前_进入站点": {
+    "recognition": "TemplateMatch",
+    "template": "更换.png",
+    "timeout": 2000
+  },
+  "当前_进入站点": {
+    "recognition": "TemplateMatch",
+    "template": "进入站点.png",
+    "timeout": 2000
+  },
+  "当前_交易所": {
+    "recognition": "TemplateMatch",
+    "template": "当前_交易所.png",
+    "timeout": 2000
+  },
+  "当前_地图": {
+    "recognition": "TemplateMatch",
+    "template": "人员标识.png",
+    "timeout": 2000
+  },
+  "当前_铁盟哨站": {
+    "recognition": "TemplateMatch",
+    "template": "tie_meng_shao_zhan/铁盟哨站_图标.png",
+    "timeout": 2000
+  },
+  "当前_修格里城": {
+    "recognition": "TemplateMatch",
+    "template": "xiu_ge_li_cheng/修格里城图标.png",
+    "timeout": 2000
+  },
+  "当前_荒原站": {
+    "recognition": "TemplateMatch",
+    "template": "huang_yuan_zhan/荒原站图标.png",
+    "timeout": 2000
+  },
+  "当前_曼德矿场": {
+    "recognition": "TemplateMatch",
+    "template": "man_de_kuang_chang/曼德矿场图标.png",
+    "timeout": 2000
+  },
+  "当前_淘金乐园": {
+    "recognition": "TemplateMatch",
+    "template": "tao_jing_le_yuan/淘金乐园图标.png",
+    "timeout": 2000
+  },
+  "当前_澄明数据中心": {
+    "recognition": "TemplateMatch",
+    "template": "cheng_ming_zhong_xing/澄明数据中心图标.png",
+    "timeout": 2000
+  },
+  "当前_七号自由港": {
+    "recognition": "TemplateMatch",
+    "template": "qi_hao_zi_you_gang/七号自由港图标.png",
+    "timeout": 2000
+  },
+  "当前_阿妮塔战备工厂": {
+    "recognition": "TemplateMatch",
+    "template": "a_li_ta_zhan_bei_gong_chang/阿妮塔战备工厂图标.png",
+    "timeout": 2000
+  },
+  "当前_阿妮塔能源研究所": {
+    "recognition": "TemplateMatch",
+    "template": "a_li_ta_neng_yuan_yan_jiu_suo/阿妮塔能源研究所图标.png",
+    "timeout": 2000
+  },
+  "当前_阿妮塔发射中心": {
+    "recognition": "TemplateMatch",
+    "template": "a_li_ta_fa_she_zhong_xing/阿妮塔发射中心图标.png",
+    "timeout": 2000
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "地点_七号自由港": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_七号自由港.png",
+    "action": "Click"
+  },
+  "地点_云岫桥基地": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_云岫桥基地.png",
+    "action": "Click",
+    "orderBy": "2"
+  },
+  "地点_修格里城": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_修格里城.png",
+    "action": "Click"
+  },
+  "地点_曼德矿场": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_曼德矿场.png",
+    "action": "Click"
+  },
+  "地点_阿妮塔发射中心": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_阿妮塔发射中心.png",
+    "action": "Click"
+  },
+  "地点_阿妮塔能源研究所": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_阿妮塔能源研究所.png",
+    "action": "Click"
+  },
+  "地点_阿妮塔战备工厂": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_阿妮塔战备工厂.png",
+    "action": "Click"
+  },
+  "地点_汇流塔": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_汇流塔.png",
+    "action": "Click"
+  },
+  "地点_海角城": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_海角城.png",
+    "action": "Click"
+  },
+  "地点_淘金乐园": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_淘金乐园.png",
+    "action": "Click"
+  },
+  "地点_澄明数据中心": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_澄明数据中心.png",
+    "action": "Click"
+  },
+  "地点_荒原站": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_荒原站.png",
+    "action": "Click"
+  },
+  "地点_贡露城": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_贡露城.png",
+    "action": "Click"
+  },
+  "地点_铁盟哨站": {
+    "recognition": "TemplateMatch",
+    "template": "location/地点_铁盟哨站.png",
+    "action": "Click"
+  }
+}

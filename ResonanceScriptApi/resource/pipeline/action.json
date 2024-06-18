@@ -1,0 +1,192 @@
+{
+  "前往目的地": {
+    "recognition": "TemplateMatch",
+    "template": "拖车服务.png",
+    "action": "Click",
+    "roi": [
+      400,
+      0,
+      720,
+      720
+    ],
+    "target_offset": [
+      200,
+      0,
+      1,
+      1
+    ]
+  },
+  "拖车服务": {
+    "recognition": "TemplateMatch",
+    "template": "拖车服务.png",
+    "action": "Click",
+    "roi": [
+      400,
+      0,
+      720,
+      720
+    ]
+  },
+  "护卫队迎击": {
+    "recognition": "TemplateMatch",
+    "template": "护卫队迎击.png",
+    "action": "Click"
+  },
+  "开始作战": {
+    "recognition": "TemplateMatch",
+    "template": "开始作战.png",
+    "action": "Click",
+    "timeout": 1800000
+  },
+  "下一步": {
+    "recognition": "TemplateMatch",
+    "template": "下一步.png",
+    "action": "Click"
+  },
+  "进入站点": {
+    "recognition": "TemplateMatch",
+    "template": "进入站点.png",
+    "action": "Click",
+    "timeout": 1800000
+  },
+  "访问城市": {
+    "recognition": "TemplateMatch",
+    "template": "访问城市.png",
+    "action": "Click",
+    "timeout": 1800000
+  },
+  "交易所偏移": {
+    "action": "Swipe",
+    "begin": [
+      700,
+      200,
+      10,
+      10
+    ],
+    "end": [
+      30,
+      559,
+      10,
+      10
+    ]
+  },
+  "交易所": {
+    "recognition": "TemplateMatch",
+    "template": "交易所.png",
+    "action": "Click",
+    "target_offset": [
+      0,
+      40,
+      3,
+      3
+    ]
+  },
+  "我要卖": {
+    "recognition": "TemplateMatch",
+    "template": "我要卖.png",
+    "action": "Click"
+  },
+  "全部卖出": {
+    "recognition": "TemplateMatch",
+    "template": "全部卖出.png",
+    "action": "Click"
+  },
+  "抬价": {
+    "recognition": "TemplateMatch",
+    "template": "抬价.png",
+    "action": "Click"
+  },
+  "卖出": {
+    "recognition": "TemplateMatch",
+    "template": "卖出.png",
+    "action": "Click"
+  },
+  "触碰空白区域退出": {
+    "recognition": "TemplateMatch",
+    "template": "触碰空白区域退出.png",
+    "action": "Click"
+  },
+  "我要买": {
+    "recognition": "TemplateMatch",
+    "template": "我要买.png",
+    "action": "Click"
+  },
+  "使用道具": {
+    "recognition": "TemplateMatch",
+    "template": "使用道具.png",
+    "action": "Click"
+  },
+  "进货采购书": {
+    "recognition": "TemplateMatch",
+    "template": "进货采购书.png",
+    "action": "Click",
+    "target_offset": [
+      200,
+      0,
+      0,
+      0
+    ]
+  },
+  "进货采购书_确认": {
+    "recognition": "TemplateMatch",
+    "action": "Click",
+    "template": "进货采购书确定.png",
+    "target_offset": [
+      150,
+      280,
+      0,
+      0
+    ]
+  },
+  "全部买入": {
+    "recognition": "TemplateMatch",
+    "template": "全部买入.png",
+    "action": "Click"
+  },
+  "砍价": {
+    "recognition": "TemplateMatch",
+    "template": "砍价.png",
+    "action": "Click"
+  },
+  "砍价2": {
+    "recognition": "TemplateMatch",
+    "template": "砍价.png",
+    "action": "Click"
+  },
+  "买入": {
+    "recognition": "TemplateMatch",
+    "template": "买入.png",
+    "action": "Click",
+    "roi": [
+      906,
+      623,
+      200,
+      200
+    ],
+    "timeout": 5000
+  },
+  "点击空白": {
+    "recognition": "TemplateMatch",
+    "template": "触碰空白区域退出.png",
+    "action": "Click",
+    "timeout": 30000
+  },
+  "返回车站": {
+    "recognition": "TemplateMatch",
+    "template": "返回车站.png",
+    "action": "Click",
+    "timeout": 30000
+  },
+  "启程": {
+    "recognition": "TemplateMatch",
+    "template": "启程.png",
+    "action": "Click",
+    "timeout": 30000,
+     "roi": [1138,627,142,93]
+  },
+  "幅度": {
+    "recognition": "OCR",
+    "roi": [993,451,50,30]
+  }
+
+}
